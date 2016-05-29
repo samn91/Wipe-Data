@@ -1,0 +1,8 @@
+C:\Users\oolo\Desktop\Wipe\SharpWipe\bin\Debug\SharpWipe.exe
+C:\Users\oolo\Desktop\Wipe\SharpWipe\bin\Debug\SharpWipe.pdb
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.csprojResolveAssemblyReference.cache
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.Form1.resources
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.Properties.Resources.resources
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.csproj.GenerateResource.Cache
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.exe
+C:\Users\oolo\Desktop\Wipe\SharpWipe\obj\Debug\SharpWipe.pdb
